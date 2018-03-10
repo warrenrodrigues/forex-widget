@@ -1,0 +1,51 @@
+#fxConversionWidget {
+	width: 90%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	line-height: 1em;
+}
+#fxConversionWidget #fxFrom {
+	font-size: 16px;
+	width: 80px;
+	text-align: right;
+	background-color: #f4f4f4;
+	border: 1px solid #999;
+	border-radius: 3px;
+	color: #222;
+	padding: 3px 5px;
+}
+#fxConversionWidget #fxTable {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	padding: 0;
+	margin: 10px 0 10px 0;
+	border-spacing: 0;
+	width: 100%;
+	border: 1px solid #ccc;
+}
+#fxConversionWidget #fxTable td {
+	width: 25%;
+	padding: 10px;
+	text-align: center;
+	font-weight: bold;
+	border: 1px solid #ccc;
+	white-space: nowrap;
+}
+#fxConversionWidget #fxTable .fxLabel {
+	font-size: 12px;
+	color: #888;
+}
+#fxConversionWidget #fxTable .fxValue {
+	font-size: 18px;
+	color: #444;
+}
+#fxConversionWidget .fxLegend {
+	font-size: 12px;
+	font-style: italic;
+}
+#fxConversionWidget .fxCredit a {
+	font-size: 11px;
+	color: #999;
+	text-decoration: none;
+}
