@@ -5,7 +5,7 @@ Simple currency conversion widget that can be easily embedded into websites. Cur
 There is no guarantee as to the accuracy of this feed, which is meant for quick reference only.
 
 ## DEMO
-A demo of this widget is available [here] (https://www.warrenasia.com/widgets/fx/)
+A demo of this widget is available [here](https://www.warrenasia.com/widgets/fx/).
 
 ## USAGE
 To embed this widget on a website, the following 2 lines of code need to be pasted in the location where the widget should be displayed.
